@@ -10,10 +10,12 @@
  <title>ikuai填写标题</title> 
  </head> 
  <frameset framespacing="0" border="0" rows="0" frameborder="0"> 
- <frame name="main" src="https://www.92zyw.top:60001/login#/login填写地址" scrolling="auto" noresize> 
+ <frame name="main" src="填写链接地址" scrolling="auto" noresize> 
  </frameset> 
  </html>
  ```
  
  ------CNAME------
+ ```html
  https://Clannad-233.github.io/仓库名称
+```
