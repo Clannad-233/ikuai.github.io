@@ -1,5 +1,5 @@
 # ikuai.github.io
-说明：链接至相关网址
+说明：链接至相关网址，请勿修改。
 
 ------index.html------
 ```html
