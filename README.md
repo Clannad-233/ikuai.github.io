@@ -17,5 +17,5 @@
  
  ------CNAME------
  ```html
- https://Clannad-233.github.io/仓库名称
+ https://userxx.github.io/仓库名称
 ```
